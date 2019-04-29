@@ -126,6 +126,6 @@ public class UserController {
 //        String emailContent = templateEngine.process("emailTemplate", context);
 //
 //        mailService.sendHtmlMail(toAddr,mailSubject,emailContent);
-        return CommonResult.success("发送成功11");
+        return CommonResult.success("发送成功112344");
     }
 }
